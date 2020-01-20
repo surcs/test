@@ -1,1 +1,24 @@
-empty
+svn git
+
+pwd
+
+ll
+ll -lA
+ll|less
+ll -lA|less 
+q
+
+cat .git/config
+
+cd ~
+cat .gitconfig
+
+git config --global user.name surc
+git status
+git rm --cached 2.txt
+
+git commit/git commit 2.txt
+set nu
+i
+esc
+:wq
